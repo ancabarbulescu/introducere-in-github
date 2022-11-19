@@ -7,7 +7,7 @@
 
 # Introducere în GitHub
 
-_Get started using GitHub in less than an hour._
+_Învață să folosești GitHub, în mai puțin de o oră._
 
 <!-- 
   <<< Author notes: Start of the course >>> 
@@ -28,7 +28,7 @@ People use GitHub to build some of the most advanced technologies in the world. 
 - **Prerequisites**: None. This course is a great introduction for your first day on GitHub.
 - **How long**: This course is four steps long and takes less than one hour to complete.
 
-## How to start this course
+## Cum să încep acest curs?
 
 1. Above these instructions, right-click **Use this template** and open the link in a new tab.
    ![Use this template](https://user-images.githubusercontent.com/1221423/169618716-fb17528d-f332-4fc5-a11a-eaa23562665e.png)
@@ -49,22 +49,22 @@ endstep0-->
 -->
 
 <details id=1 open>
-<summary><h2>Step 1: Create a branch</h2></summary>
+<summary><h2>Pasul 1: Creează un branch (o ramură)</h2></summary>
 
-_Welcome to "Introduction to GitHub"! :wave:_
+_Bun venit la "Introducere în GitHub"! :wave:_
 
-**What is GitHub?**: GitHub is a collaboration platform that uses [Git](https://docs.github.com/get-started/quickstart/github-glossary#git) for versioning. GitHub is a popular place to share and contribute to [open-source](https://docs.github.com/get-started/quickstart/github-glossary#open-source) software.
+**Ce este GitHub?**: GitHub is a collaboration platform that uses [Git](https://docs.github.com/get-started/quickstart/github-glossary#git) for versioning. GitHub is a popular place to share and contribute to [open-source](https://docs.github.com/get-started/quickstart/github-glossary#open-source) software.
 <br>:tv: [Video: What is GitHub?](https://www.youtube.com/watch?v=w3jLJU7DT5E)
 
-**What is a repository?**: A [repository](https://docs.github.com/get-started/quickstart/github-glossary#repository) is a project containing files and folders. A repository tracks versions of files and folders.
+**Ce este un repository?**: A [repository](https://docs.github.com/get-started/quickstart/github-glossary#repository) is a project containing files and folders. A repository tracks versions of files and folders.
 <br>:tv: [Video: Exploring a repository](https://www.youtube.com/watch?v=R8OAwrcMlRw)
 
-**What is a branch?**: A [branch](https://docs.github.com/en/get-started/quickstart/github-glossary#branch) is a parallel version of your repository. By default, your repository has one branch named `main` and it is considered to be the definitive branch. You can create additional branches off of `main` in your repository. You can use branches to have different versions of a project at one time.
+**Ce este un branch?**: A [branch](https://docs.github.com/en/get-started/quickstart/github-glossary#branch) is a parallel version of your repository. By default, your repository has one branch named `main` and it is considered to be the definitive branch. You can create additional branches off of `main` in your repository. You can use branches to have different versions of a project at one time.
 
 On additional branches, you can make edits without impacting the `main` version. Branches allow you to separate your work from the `main` branch. In other words, everyone's work is safe while you contribute.
 <br>:tv: [Video: Branches](https://www.youtube.com/watch?v=xgQmu81G1yY)
 
-**What is a profile README?**: A [profile README](https://docs.github.com/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme) is essentially an "About me" section on your GitHub profile where you can share information about yourself with the community on GitHub.com. GitHub shows your profile README at the top of your profile page.
+**Ce este un profile README?**: A [profile README](https://docs.github.com/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme) is essentially an "About me" section on your GitHub profile where you can share information about yourself with the community on GitHub.com. GitHub shows your profile README at the top of your profile page.
 
 ### :keyboard: Activity: Your first branch
 
@@ -86,7 +86,7 @@ On additional branches, you can make edits without impacting the `main` version.
 -->
 
 <details id=2>
-<summary><h2>Step 2: Commit a file</h2></summary>
+<summary><h2>Pasul 2: Commit a file (Dă commit la un fișier)</h2></summary>
 
 _You created a branch! :tada:_
 
@@ -127,7 +127,7 @@ The following steps will guide you through the process of committing a change on
 -->
 
 <details id=3>
-<summary><h2>Step 3: Open a pull request</h2></summary>
+<summary><h2>Pasul 3: Deschide un pull request (spațiu de colaborare)</h2></summary>
 
 _Nice work making that commit :sparkles:_
 
@@ -168,7 +168,7 @@ You may have noticed after your commit that a message displayed indicating your 
 -->
 
 <details id=4>
-<summary><h2>Step 4: Merge your pull request</h2></summary>
+<summary><h2>Pasul 4: Merge your pull request (actualizează ramura principală)</h2></summary>
 
 _Nicely done friend! :sunglasses:_
 
@@ -197,7 +197,7 @@ As noted in the previous step, you may have seen evidence of an action running w
 -->
 
 <details id=X>
-<summary><h2>Finish</h2></summary>
+<summary><h2>Finalizează</h2></summary>
 
 _Congratulations friend, you've completed this course and joined the world of developers!_
 
@@ -210,7 +210,7 @@ Here's a recap of your accomplishments:
 - You merged a pull request.
 - You made your first contribution! :tada:
 
-### What's next?
+### Ce urmează?
 
   If you'd like to make a profile README, use the simplified instructions below or follow the instructions in the [Managing your profile README](https://docs.github.com/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme) article.
   1. Make a new public repository with a name that matches your GitHub username.
