@@ -22,11 +22,11 @@ _Învață să folosești GitHub, în mai puțin de o oră._
 
 People use GitHub to build some of the most advanced technologies in the world. Whether you’re visualizing data or building a new game, there’s a whole community and set of tools on GitHub that can help you do it even better. GitHub Skills’ “Introduction to GitHub” course guides you through everything you need to start contributing in less than an hour.
 
-- **Who is this for**: New developers, new GitHub users, and students.
-- **What you'll learn**: We'll introduce repositories, branches, commits, and pull requests.
-- **What you'll build**: We'll make a short Markdown file you can use as your [profile README](https://docs.github.com/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme).
-- **Prerequisites**: None. This course is a great introduction for your first day on GitHub.
-- **How long**: This course is four steps long and takes less than one hour to complete.
+- **Cui se adresează?**: New developers, new GitHub users, and students.
+- **Ce vei învăța**: We'll introduce repositories, branches, commits, and pull requests.
+- **Ce vei realiza?**: We'll make a short Markdown file you can use as your [profile README](https://docs.github.com/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme).
+- **Cerințe preliminare**: None. This course is a great introduction for your first day on GitHub.
+- **Cât durează**: This course is four steps long and takes less than one hour to complete.
 
 ## Cum să încep acest curs?
 
@@ -49,7 +49,7 @@ endstep0-->
 -->
 
 <details id=1 open>
-<summary><h2>Pasul 1: Creează un branch (o ramură)</h2></summary>
+<summary><h2>Pasul 1: Create a branch (Creează o ramură)</h2></summary>
 
 _Bun venit la "Introducere în GitHub"! :wave:_
 
@@ -66,7 +66,7 @@ On additional branches, you can make edits without impacting the `main` version.
 
 **Ce este un profile README?**: A [profile README](https://docs.github.com/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme) is essentially an "About me" section on your GitHub profile where you can share information about yourself with the community on GitHub.com. GitHub shows your profile README at the top of your profile page.
 
-### :keyboard: Activity: Your first branch
+### :keyboard: Activitate: Prima ta ramură (branch)
 
 1. Open a new browser tab, and navigate to this same repository. Then, work on the steps in your second tab while you read the instructions in this tab.
 2. Navigate to the **Code** tab.
@@ -94,7 +94,7 @@ Creating a branch allows you to edit your project without changing the `main` br
 
 **What is a commit?**: A [commit](https://docs.github.com/pull-requests/committing-changes-to-your-project/creating-and-editing-commits/about-commits) is a set of changes to the files and folders in your project. A commit exists in a branch.
 
-### :keyboard: Activity: Your first commit
+### :keyboard: Activitate: Primul tău commit
 
 The following steps will guide you through the process of committing a change on GitHub. Committing a change requires first adding a new file to your new branch. 
 
@@ -127,7 +127,7 @@ The following steps will guide you through the process of committing a change on
 -->
 
 <details id=3>
-<summary><h2>Pasul 3: Deschide un pull request (spațiu de colaborare)</h2></summary>
+<summary><h2>Pasul 3: Open a pull request (Deschide un spațiu de colaborare)</h2></summary>
 
 _Nice work making that commit :sparkles:_
 
@@ -136,7 +136,7 @@ Now that you’ve created a commit, it’s time to share your proposed change th
 **What is a pull request?**: Collaboration happens on a pull request. The pull request shows the changes in your branch to other people. This pull request is going to keep the changes you just made on your branch and propose applying them to the `main` branch.
 <br>:tv: [Video: Introduction to pull requests](https://youtu.be/kJr-PIfLDl4)
 
-### :keyboard: Activity: Create a pull request
+### :keyboard: Activitate: Creează un pull request (spațiu de colaborare)
 
 You may have noticed after your commit that a message displayed indicating your recent push to your branch and providing a button that says **Compare & pull request**.
 
@@ -168,7 +168,7 @@ You may have noticed after your commit that a message displayed indicating your 
 -->
 
 <details id=4>
-<summary><h2>Pasul 4: Merge your pull request (actualizează ramura principală)</h2></summary>
+<summary><h2>Pasul 4: Merge your pull request (Actualizează ramura principală)</h2></summary>
 
 _Nicely done friend! :sunglasses:_
 
@@ -180,7 +180,7 @@ You successfully created a pull request. You can now merge your pull request.
 As noted in the previous step, you may have seen evidence of an action running which automatically progresses your instructions to the next step. You'll have to wait for it to finish before you can merge your pull request. It will be ready when the merge pull request button is green.
 
 ![screenshot of green merge pull request button](/images/Green-merge-pull-request.png)
-### :keyboard: Activity: Merge the pull request
+### :keyboard: Activitate: Aplică modificările prin Merge pull request
 
 1. Click **Merge pull request**.
 1. Click **Confirm merge**.
