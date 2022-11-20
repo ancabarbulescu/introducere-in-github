@@ -53,18 +53,18 @@ endstep0-->
 
 _Bun venit la "Introducere în GitHub"! :wave:_
 
-**Ce este GitHub?**: GitHub is a collaboration platform that uses [Git](https://docs.github.com/get-started/quickstart/github-glossary#git) for versioning. GitHub is a popular place to share and contribute to [open-source](https://docs.github.com/get-started/quickstart/github-glossary#open-source) software.
+**Ce este GitHub?**: GitHub este o platformă colaborativă care folosește [Git](https://docs.github.com/get-started/quickstart/github-glossary#git) pentru versionare. GitHub este un spațiu public unde poți să împărtășești și poți să contribui la programe [open-source](https://docs.github.com/get-started/quickstart/github-glossary#open-source).
 <br>:tv: [Video: What is GitHub?](https://www.youtube.com/watch?v=w3jLJU7DT5E)
 
-**Ce este un repository?**: A [repository](https://docs.github.com/get-started/quickstart/github-glossary#repository) is a project containing files and folders. A repository tracks versions of files and folders.
+**Ce este un repository?**: Un [repository](https://docs.github.com/get-started/quickstart/github-glossary#repository) este o colecție de fișiere și dosare. Un repository ține evidența versiunilor de fișiere și dosare.
 <br>:tv: [Video: Exploring a repository](https://www.youtube.com/watch?v=R8OAwrcMlRw)
 
-**Ce este un branch?**: A [branch](https://docs.github.com/en/get-started/quickstart/github-glossary#branch) is a parallel version of your repository. By default, your repository has one branch named `main` and it is considered to be the definitive branch. You can create additional branches off of `main` in your repository. You can use branches to have different versions of a project at one time.
+**Ce este un branch?**: Un [branch](https://docs.github.com/en/get-started/quickstart/github-glossary#branch) este o versiune paralelă a unui repository. În mod implicit, un repository conține un branch (ramură) cu denumirea `main`, fiind conciderat versiunea definitivă (principală). Într-un repository care îți aparține, poți crea ramuri suplimentare, pe lângă `main`. Poți folosi simultan mai multe ramuri pentru diferite versiuni ale proiectului tău.
 
-On additional branches, you can make edits without impacting the `main` version. Branches allow you to separate your work from the `main` branch. In other words, everyone's work is safe while you contribute.
+Ramurile suplimentare sunt utile pentru a testa diverse modificări, fără a altera versiunea `main`. Ramurile îți permit să separi ceea ce este în lucru de ramura principală `main`. Cu alte cuvinte, munca fiecăruia este în siguranță în timp ce tu aduci diverse îmbunătățiri sau contribui.
 <br>:tv: [Video: Branches](https://www.youtube.com/watch?v=xgQmu81G1yY)
 
-**Ce este un profile README?**: A [profile README](https://docs.github.com/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme) is essentially an "About me" section on your GitHub profile where you can share information about yourself with the community on GitHub.com. GitHub shows your profile README at the top of your profile page.
+**Ce este un profile README?**: Un fișier [profile README](https://docs.github.com/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme) este, de fapt, o secțiune de tip "About me" (Despre) pentru profilul tău GitHub, secțiune în care poți să împărtășești ceva despre tine cu comunitatea GitHub.com. GitHub afișează informațiile din profile README în partea de sus a paginii tale de profil.
 
 ### :keyboard: Activitate: Prima ta ramură (branch)
 
@@ -88,11 +88,11 @@ On additional branches, you can make edits without impacting the `main` version.
 <details id=2>
 <summary><h2>Pasul 2: Commit a file (Dă commit la un fișier)</h2></summary>
 
-_You created a branch! :tada:_
+_Ai creat un branch (o ramură)! :tada:_
 
-Creating a branch allows you to edit your project without changing the `main` branch. Now that you have a branch, it’s time to create a file and make your first commit!
+Crearea unei ramuri îți permite să editezi propriul proiect fără să modifici ramura principală `main`. Acum, pentru că ai o ramură, este timpul să creezi un fișier și să execuți prima ta acțiune de tip commit!
 
-**What is a commit?**: A [commit](https://docs.github.com/pull-requests/committing-changes-to-your-project/creating-and-editing-commits/about-commits) is a set of changes to the files and folders in your project. A commit exists in a branch.
+**Ce este un commit?**: Un [commit](https://docs.github.com/pull-requests/committing-changes-to-your-project/creating-and-editing-commits/about-commits) reprezintă un se de actualizări asupra fișierelor și dosarelor din proiectul tău. Un commit se face într-o ramură.
 
 ### :keyboard: Activitate: Primul tău commit
 
@@ -129,11 +129,11 @@ The following steps will guide you through the process of committing a change on
 <details id=3>
 <summary><h2>Pasul 3: Open a pull request (Deschide un spațiu de colaborare)</h2></summary>
 
-_Nice work making that commit :sparkles:_
+_Frumos lucrat cu acel commit :sparkles:_
 
-Now that you’ve created a commit, it’s time to share your proposed change through a pull request!
+Acum, pentru că ai executat un commit, este timpul să împărtășești modificările pe care le propui, printr-un pull request (spațiu de colaborare)!
 
-**What is a pull request?**: Collaboration happens on a pull request. The pull request shows the changes in your branch to other people. This pull request is going to keep the changes you just made on your branch and propose applying them to the `main` branch.
+**Ce este un pull request?**: Un pull request reprezintă un spațiu de colaborare. Acesta le afișează celorlalți modificările de pe o ramură a ta. În acest pull request se păstrează modificările pe care le-ai făcut pe ramura ta și sunt propuse a fi aplicate ramurii `main` (principale).
 <br>:tv: [Video: Introduction to pull requests](https://youtu.be/kJr-PIfLDl4)
 
 ### :keyboard: Activitate: Creează un pull request (spațiu de colaborare)
@@ -170,14 +170,14 @@ You may have noticed after your commit that a message displayed indicating your 
 <details id=4>
 <summary><h2>Pasul 4: Merge your pull request (Actualizează ramura principală)</h2></summary>
 
-_Nicely done friend! :sunglasses:_
+_Bine lucrat, amice! :sunglasses:_
 
-You successfully created a pull request. You can now merge your pull request.
+Ai reușit să creezi un pull request. Acum poți să faci actualizarea aplicând ceea ce ai în pull request (spațiul de colaborare).
 
-**What is a _merge_**: A [merge](https://docs.github.com/en/get-started/quickstart/github-glossary#merge) adds the changes in your pull request and branch into the `main` branch.
+**Ce este o operație de actualizare _merge_**: O actualizare [merge](https://docs.github.com/en/get-started/quickstart/github-glossary#merge) aplică ramurii principale `main` modificările pe care le ai în pull request și în branch (ramura corespunzătoare).
 <br>:tv: [Video: Understanding the GitHub flow](https://www.youtube.com/watch?v=PBI2Rz-ZOxU)
 
-As noted in the previous step, you may have seen evidence of an action running which automatically progresses your instructions to the next step. You'll have to wait for it to finish before you can merge your pull request. It will be ready when the merge pull request button is green.
+Este posibil să fi observat la pasul anterior să se execută o acțiune care te conduce la următorul pas. Ar trebui să aștepți până se termină aceasta, înainte să poți executa un merge (actualizare) pe baza propunerilor din pull request. Va fi posibil atunci când butonul merge pull request va avea culoarea verde.
 
 ![screenshot of green merge pull request button](/images/Green-merge-pull-request.png)
 ### :keyboard: Activitate: Aplică modificările prin Merge pull request
@@ -199,16 +199,16 @@ As noted in the previous step, you may have seen evidence of an action running w
 <details id=X>
 <summary><h2>Finalizează</h2></summary>
 
-_Congratulations friend, you've completed this course and joined the world of developers!_
+_Felicitări, ai finalizat acest curs și ai intrat în lumea dezvoltatorilor!_
 
 <img src=https://octodex.github.com/images/collabocats.jpg alt=celebrate width=300 align=right>
 
-Here's a recap of your accomplishments:
+Hai să recapitulăm reușitele tale:
 
-- You learned about GitHub, repositories, branches, commits, and pull requests.
-- You created a branch, a commit, and a pull request.
-- You merged a pull request.
-- You made your first contribution! :tada:
+- Ai învățat despre GitHub, repositorii, branch-uri (ramuri), commit (salvare) și pull request (spațiu de colaborare).
+- Ai creat un branch, un făcut un commit și un pull request.
+- Ai actualizat printr-un merge pentru pull request.
+- Ți-ai adus prima contribuție! :tada:
 
 ### Ce urmează?
 
@@ -220,11 +220,11 @@ Here's a recap of your accomplishments:
   5. We'd love to see your new profile! Share your profile on social media and tag us!
   6. Lastly, we'd love to hear what you thought of this course [in our discussion board](https://github.com/skills/.github/discussions).
 
-Check out these resources to learn more or get involved:
-- Are you a student? Check out the [Student Developer Pack](https://education.github.com/pack).
+Verifică aceste resurse pentru a învăța mai multe sau pentru a te implica:
+- Ești elev sau student? Încearcă acest [Student Developer Pack](https://education.github.com/pack).
 - [Take another GitHub Skills course](https://github.com/skills).
 - [Read the GitHub Getting Started docs](https://docs.github.com/en/get-started).
-- To find projects to contribute to, check out [GitHub Explore](https://github.com/explore).
+- Pentru a găsi proiecte la care să contribui, mergi la [GitHub Explore](https://github.com/explore).
 
 </details>
 
@@ -235,6 +235,6 @@ Check out these resources to learn more or get involved:
 
 ---
 
-Get help: [Post in our discussion board](https://github.com/skills/.github/discussions) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
+Primești ajutor (în limba engleză): [Post in our discussion board](https://github.com/skills/.github/discussions) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
 
 &copy; 2022 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [CC-BY-4.0 License](https://creativecommons.org/licenses/by/4.0/legalcode)
